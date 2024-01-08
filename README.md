@@ -1,4 +1,4 @@
-<img align="center" src="./najmy.png" alt="background header" />
+<img align="center" src="./nutsme.png" alt="background header" />
 
 <h1 align="center">Hello, I'm Muhammad Najmy Tsaqiby ! 👋 </h1>
 
