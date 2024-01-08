@@ -6,7 +6,7 @@
 
 I've had a aircraft structure engineering background since my college days in 2015. I decided to explore Information Technology (IT) due to my previous job in programming. I am dedicated to staying up-to-date with the latest programming languages, frameworks, and tools to keep pace with the dynamic field of software engineering. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-najmy-tsaqiby-1b4561173/)](https://www.linkedin.com/in/muhammad-najmy-tsaqiby-1b4561173/) [![Instagram Badge](https://img.shields.io/badge/-Alyuza_Satrio_Prayogo-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.instagram.com/mnajmytsss/) [![Gmail Badge](https://img.shields.io/badge/-surel@naj.my.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surel@naj.my.id)](mailto:surel@naj.my.id)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Najmy_Tsaqiby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-najmy-tsaqiby-1b4561173/)](https://www.linkedin.com/in/muhammad-najmy-tsaqiby-1b4561173/) [![Instagram Badge](https://img.shields.io/badge/-Muhammad_Najmy_Tsaqiby-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.instagram.com/mnajmytsss/) [![Gmail Badge](https://img.shields.io/badge/-surel@naj.my.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surel@naj.my.id)](mailto:surel@naj.my.id)
 
 ## Languages & Tools :
 
